@@ -1,0 +1,6 @@
+Method,Recall@1,Recall@5,Recall@10,MRR,Average k
+Fixed Top-5,0.4272,0.7384,0.8618,0.5605,5.0
+Rule-based Dynamic-k,0.4284,0.7396,0.8625,0.5617,6.23
+Confidence Classifier,0.4284,0.7396,0.8625,0.5617,6.2
+Calibrated Confidence (CRCS),0.4284,0.7396,0.8625,0.5617,6.2
+Final Adaptive Retrieval,0.4288,0.738,0.8626,0.5576,6.2117
