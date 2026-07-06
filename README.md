@@ -334,7 +334,7 @@ This project is released under the MIT License.
 
 **Arnav Singh**
 
-Research Intern 
+Research Intern at
 Indian Institute Of Information Technology, Design & Manufacturing, Kurnool
 
 **GitHub:** https://github.com/Arnav-Singh-5080
